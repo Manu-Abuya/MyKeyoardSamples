@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyKeyoardSamples</string>
+    <string name="enter_first_name" />
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_email_address" />
+    <string name="enter_date_of_birth">Enter Date of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="company_logo">Company Logo</string>
+    <string-array name="spinner_label">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
